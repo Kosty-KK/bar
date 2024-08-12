@@ -1,0 +1,29 @@
+.info{
+    display: flex;
+}
+
+.margo, .coct, .name, .cor {
+    margin: 7px;
+}
+
+.name{
+    margin-top: 0;
+}
+
+.cor {
+    margin-top: 3px;
+    color: #676767
+}
+
+.pol{
+    background: #67676725;
+}
+
+.t{
+    margin: 5px;
+    color: blue;
+}
+
+.contakt{
+    margin: 3px;
+}
